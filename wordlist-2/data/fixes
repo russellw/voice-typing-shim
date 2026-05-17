@@ -1,0 +1,360 @@
+#:: adjust
+
+ADHD <n→abbr/>
+
+# Issue #378
+A B: aesthetic <n>
+Av: esthetic <n>
+
+# Issue #378
+A B: aesthetic <aj>
+Av: esthetic <aj>
+
+# Issue #378
+A B: aesthetically <av>
+Av: esthetically <av>
+
+# Issue #378
+A B: aesthetics <n>
+Av: esthetics <n>
+
+- analytic <n>: analytics
++ _analytics <n>
+
+angelfish <n>: (angelfish | angelfishes*)
+
+A C Bv: antiestablishment
+Av C= B: anti-establishment
+
+- anyway <n>
+
+A B: anyway <av>
+AV: anyways <av>
++ 70 US: +: anyways
+
+= appliqué <n>: appliqués
+= _V: applique <n>: appliques
+
+- appliquéd
+- appliquéing
++ appliqué <v>: appliquéd, appliquéing, appliqués
+= _V: applique <v>: (appliqued | -: appliqueed), appliqueing, appliques
+
+_: _arse <v> (vulgar-3)
+= 99: ...
++ 50 GB: ...
+
+bacteria <n>: bacterias!
+
+_: biblical <aj>
++ _V: Biblical <aj>
+
+- Biblical <n/upper>
+
+_: biblically <→av/>
+_V: Biblically <→av/>
+
+bing <m→n>
+
+CAD <n→abbr/>
+
+_V: candie <m→n> {→unit}
++ _: candy <n> {unit}: candies
+
+chez <→pp>
+
+_: chiz <m→v>
+_v: chizz <v>
+
+# Issue #376
+colorization <n>: colorizations_
++ 60 [extra]: - <n>: colorizations
+
+= constructivism <n>: constructivisms~, constructivism's
+= 80: - <n>: constructivisms, -
+
+- cosie <v>
+
+- cozie <m>
+
+A C: cozy <n>
+B Cv: cosy <n>
+A@ B@: cosey <n>
+A@: cozey <n>
+
+A C: cozy <v>
+B Cv: cosy <v>
+
+A C: cozy <aj>
+B Cv: cosy <aj>
+= A@ B@: cosey <aj>: cosier, cosiest
+= A@ B@: cosie <aj>: cosier, cosiest
+A@: cozey <aj>
+A@: cozie <aj>
+
+_: déclassé <n→aj>
+_v: declasse <m→aj>
+_V: declassee <n→aj>
+_V: déclassée <n→aj>
+
+dialog <n→wp> {dialog box}
+dialogue <n→wp> {dialog box}
+
+= A Bv: dishabille <n>: dishabilles~
+= Av: deshabille <n>: deshabilles~
+= B: déshabillé <n>: déshabillés~
+
+A B: doughnut <n>
+A. B-: donut <n>
+
+A B: drive-through <n>: drive-throughs
++ A.: drive-thru <n>: drive-thrus
+
+= edema <n>: edemas~, edema's
+
+# Issue #449
+A Z: euthanize <v>: euthanized, euthanizing, euthanizes
+B Dv: euthanise <v>: euthanised, euthanising, euthanises
++ D: euthanase <v>: euthanased, euthanasing, euthanases
+
+A B: fantasy <n_v>
+AV BV: phantasy <n_v>
+A- B-: fantasie <m→n_v>
+
+~ gratiné <v>
++ _: gratiné <aj>
++ _V: gratine <aj>
++ _v: gratinée <aj>
++ _V: gratinee <aj>
+
+= _: gratinée <m→v>: gratinéed, gratinéeing, gratinées
+  _v: gratinee <m→v>
+  _-: gratine <v>
+  _-: gratiné <v>
+
+# Issue #379
+A C: hemorrhagic <aj>
+B: haemorrhagic <aj>
+
+_: HTTP <abbr>
+_-: http <abbr>
+
+hyaena <n>: (hyaenas | V: hyaena)
+
+inasmuch <→wp>
++ 50: ...
+
+inasmuch as <→c>
+
+insofar <av→wp>
++ 50: ...
+
+insofar as <→c>
+
+= intaglio <n>: (intaglios | ~: intagli)
+
+= intaglio <v>: intaglioed, intaglioing, intaglioes
+
+job-share <m→v>
+
+# Issue #345
++ _: Kyiv <n/place>: Kyiv's
+_v: Kiev <n/place>: Kiev's
+
+layperson <n>: (laypeople | V: laypersons), layperson's, (laypeople's | V: laypersons')
++ 60: +: layperson <n>: laypersons
+
+- lbs. <abbr>
+
+A B C D: licensed <aj>
++ Bv: licenced <aj>
+
++ lovey <wp> # lovey-dovey
+= 60: ...
+
+lovey <n> {:2→}: loveys
+- luvvie <n> {:2}
+= 99: ...
++ 60 GB: ...
+
+_: luvvie <n> {:1→}: luvvies
+_v: luvvy <n> {:1}: luvvies
+= 99: ...
++ 60 GB: ...
+
+# Issue #328
++ _: Mastercard <n/name>: Mastercard's
+_v: MasterCard <n/name>: MasterCard's
+
+= A C: math <n>
+= B: maths <n>
+
+= A Cv: meager <aj>: meagerer-, meagerest-
+= AV B C: meagre <aj>: meagrer-, meagrest-
+
+_: midwife <n>
+_x: midwive <m→n>
+
+_: naive <n>: naives
++ _v: naïve <n>: naïves
+
+_: naive <aj>: naiver, naivest
++ _v: naïve <aj>: naïver, naïvest
+
+_: naively <av>
++ _v: naïvely <av>
+
+_: naiveness <n>: naivenesses
++ _v: naïveness <n>: naïvenesses
+
+_: naivete <n>: naivetes
++ _v: naïveté <n>: naïvetés
+_V: naiveté <n>: naivetés
+
+_: naivety <n>: naiveties
++ _v: naïvety <n>: naïveties
+
+= nonplus <v>: (nonplussed | V: nonplused), (nonplussing | V: nonplusing), (nonpluses | v: nonplusses)
+
+_: nonplussed <aj>
+_V: nonplused <aj>
+
+= A Bv: percent <n>: percent
+- per cent
++ B AV: per cent <n>: per cent
+
+A Bv: percent <a→av>
++ B AV: per cent <av>
+
+person <n>: (people | V: persons), person's, (people's | V: persons')
++ 60: +: person <n>: persons
+
+_: piñata <n>
+_v: pinata <n>
+
+practic <m→n>
+
+A B C: practice <n>
+AV Cv: practise <n>
+
+A Cv: practice <v>
+AV B C: practise <v>
+
+A Cv: practiced <aj>
+AV B C: practised <aj>
+
+A Cv: practicing <→aj>
++ AV B C: practising <aj>
+
+# Issue #302
+A B- CV: preexist <v>: preexisted, preexisting, preexists
+AV B C: pre-exist <m→v>: pre-existed_, pre-existing_, pre-exists_
+
+# Issue #302
+A B- CV: preexisting <aj>
+AV B C: pre-existing <aj>
+
+A B: prize <n_v> {reward→}
+B-: pryse <v→n_v>
+B-: prys <m→n_v>
+
+A B: prize <aj> {reward→}
+B-: pryse <v→aj>
+B-: prys <m→aj>
+
+- prize <n> {otherwise}
+- prise <n> {otherwise}
+
+- prize <aj> {otherwise}
+- prise <aj> {otherwise}
+
+A BV C: prize <v> {otherwise→pry}
+B: prise <v> {otherwise}
+
+_: puttee <n> {→cloth strip}
+_V: puttie <m→n> {→cloth strip}
++ _V: putty <n> {cloth strip}: putties
+
+reactance <n>
+- 60 [extra]: ...
+
++ _: résumé <n>: résumés
+  _v: resume <n>: resumes
++ _V: resumé <n>: resumés
+= 50 [extra]: ...
+
+rheumatology <n>: rheumatologies~
+
+rive <v>: -, (riven | V: rived), -, -
+- 50 [12dicts]: ...
+
+~ rive <v>: -, riven, -, -
++ riven <aj>
+
+= sauté <n_v>: (sautéed | ~: sautéd), sautéing, sautés
+= _V: saute <n_v>: (sauteed | ~: sauted), sauteing, sautes
+
+ sauté <aj>
+ _V: saute <aj>
+
+- sauteed <aj>
+
+spokesperson <n>: (spokespeople | V: spokespersons), spokesperson's, (spokespeople's | V: spokespersons')
++ 60: +: spokesperson <n>: spokespersons
+
+# Issue #266 (surveil is now extra not signature)
+surveil <v>
+- 70 [+]: ...
+
+- tassell <m>
+
+  _: tiercel <n>: tiercels, tiercel's
++ _-: tassell <n>: tassells, tassell's
+
+A B: through <aj_av>
+AV B-: thru <aj_av>
++ 70: +: thru <aj_av>
+
+A B: through <pp>
+AV B-: thru <pp>
++ 70: +: thru <pp>
+
++ thru <we> # drive-thru
+= 50 US: ...
+
+trabecula <n>
+- 60 [extra]: ...
+
+# fixme: this is probably better fixed at the scowl-pre.txt level
+~ tres <m>
++ tres <abbr>
+
+# fixme: this is probably better fixed at the scowl-pre.txt level
+_: !très <m→av>
+_V: !tres <m→av>
+= 85 [ukacd]: ...
+
+wake <v>: (A B: woke | AV B@: waked), (A B: woken | A. B@: waked | AV: woke), waking, wakes
+- 50 [+]: ...
+
+# Issue #425
+A Z: weaponize <v>: weaponized, weaponizing, weaponizes
+B: weaponise <m→v>: weaponised, weaponising, weaponises
+
+_: Wi-Fi <→n/>
+_.: WiFi <n/>
+
+= wiz <n> {:2}: wizzes, wiz's
+
++ woke <aj>: woker, wokest
+= 50 [+]: ...
+
+# Issue #430
+A Bv C: yogurt <n>: yogurts, yogurt's
+B CV: yoghurt <n>: yoghurts, yoghurt's
+B-: yoghourt <n>: yoghourts, yoghourt's
+Cv: yogourt <n>: yogourts, yogourt's
+
+- ## hyena
+
+- ## fantasy

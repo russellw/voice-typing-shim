@@ -1,0 +1,1061 @@
+#:: merge [extra] :adjust-pos
+
+# Issue #265
+70: abiotic <aj>
+
+# Issue #417
+60: ADHD <abbr>
+
+# Issue #417
+70: allism <n>
+
+# Issue #339
+60 GB: Anthea <n/person>: Anthea's
+
+# Issue #472
+60: Anthropic <n/name>: Anthropic's
+
+# Issue #344
+60: Aotearoa <n/place>: Aotearoa's
+
+# Issue #281
+70: archosaur <n>: archosaurs
+
+# Issue #281
+70: Archosauria <n>
+
+# Issue #392
+60: artisanal <aj>
+
+# Issue #476
+60: Ashkenazi <n/>: (Ashkenazim | V: Ashkenazis), Ashkenazi's, (Ashkenazim's | V: Ashkenazis')
+
+# Issue #476
+60: _: Ashkenazi <aj/>
+60: _V: Ashkenazic <aj/>
+
+# Issue #265
+70: astable <aj>
+
+# Issue #321
+60: AstraZeneca <n/name>: AstraZeneca's
+
+# Issue #454
+60: AUD <abbr>
+
+# Issue #266
+60: auditable <aj>
+
+# Issue #409
+60: autocorrect <n>: autocorrects, autocorrect's
+
+# Issue #409
+60: autocorrect <v>: autocorrected, autocorrecting, autocorrects
+
+# Issue #424
+60: automation <n>: automations
+
+# Issue #315
+60: backtrace <n>: backtraces
+
+# Issue #315
+70: backtrace <v>: backtraced, backtracing, backtraces
+
+# Issue #367
+60: biblically <av>
+
+# Issue #265
+70: bioenergetics <n>
+
+# Issue #265
+60: biofuel <n>: biofuels, biofuel's
+
+# Issue #265
+70: biogeography <n>
+
+# Issue #265
+70: biomagnification <n>
+
+# Issue #321
+60: BioNTech <n/name>: BioNTech's
+
+# Issue #357
+70: biopharmaceutical <n>: biopharmaceuticals
+
+# Issue #357
+70: biopharmaceutical <aj>
+
+# Issue #266
+60: blacksmithing <n>
+
+# Issue #281
+80: bloodedness <n>
+
+# Issue #281
+60: blueshift <n>: blueshifts
+
+# Issue #281
+60: blueshift <v>: blueshifted, blueshifts, blueshifting
+
+# Issue #316
+70: bohrium <n>: bohriums, bohrium's
+
+# Issue #265
+80: breakerless <aj>
+
+# Issue #438
+60: bromance <n>: bromances, bromance's
+
+# Issue #453
+60: _: bugfix <n>: bugfixes
+60: _V: bug-fix <n>: bug-fixes
+
+# Issue #453
+60: _: bugfix <aj>
+60: _V: bug-fix <aj>
+
+# Issue #454
+60: CAD <abbr>
+
+# Issue #321
+70: CanSino <n/name>: CanSino's
+
+# Issue #354
+70: Caryn <n/person>: Caryn's
+
+# Issue #391
+60: centric <aj>
+
+# Issue #445
+70: Chainlink <n/name>: Chainlink's
+
+# Issue #454
+70: CHF <abbr>
+
+# Issue #412
+70: A C BV: chip-seal <aj>
+70: AV CV B D: chipseal <aj>
+70: A- C- B-: chip seal <aj>
+
+# Issue #412
+70: A C BV: chip seal <n>: chip seals
+70: AV CV B D: chipseal <n>: chipseals
+
+# Issue #412
+70: A C BV: chip seal <v>: chip sealed, chip sealing, chip seals
+70: AV CV B D: chipseal <v>: chipsealed, chipsealing, chipseals
+
+# Issue #317
+60 : _: cleantech <n>
+60 : _V: clean-tech <n>
+
+# Issue #458
+60: CLI <n/abbr>: CLIs, CLI's
+
+# Issue #337
+70: clickstream <n>: clickstreams
+
+# Issue #323
+60: CMOS <n/abbr>: CMOSes, CMOS's
+
+# Issue #454
+70: CNY <abbr>
+
+# Issue #455
+60: _: codebase <n>: codebases, codebase's
+60: _v: code base <n>: code bases, code base's
+
+# Issue #265
+60: _: coevolution <n>: coevolutions, coevolution's
+60: _V: co-evolution <n>: co-evolutions, co-evolution's
+
+# Issue #265
+60: _: coevolve <v>: coevolved, coevolving, coevolves
+60: _V: co-evolve <v>: co-evolved, co-evolving, co-evolves
+
+# Issue #321
+80: Comirnaty <n/name>: Comirnaty's
+
+# Issue #266
+60: commenter <n>: commenters
+
+# Issue #265
+70: contactor <n>: contactors, contactor's
+
+# Issue #316
+70: copernicium <n>: coperniciums, copernicium's
+
+# Issue #438
+60: cosplayer <n>: cosplayers, cosplayer's
+
+# Issue #321
+80: Covifenz <n/name>: Covifenz's
+
+# Issue #436
+60: _: coworking <n>
+60: _V: co-working <n>
+
+# Issue #436
+60: _: coworking <aj>
+60: _V: co-working <aj>
+
+# Issue #281
+60: crocodilian <n>: crocodilians
+
+# Issue #269
+60: Crohn's <n>
+
+# Issue #322
+70: cytometer <n>: cytometers
+
+# Issue #322
+70: cytometry <n>: cytometries
+
+# Issue #472
+70: DALL-E <n/name>: DALL-E's
+
+# Issue #316
+70: darmstadtium <n>: darmstadtiums, darmstadtium's
+
+# Issue #265
+70: decalcify <v>: decalcified, decalcifying, decalcifies
+
+# Issue #265
+60: decomposer <n>: decomposers, decomposer's
+
+# Issue #270
+60: decomposer <n>: decomposers, decomposer's
+
+# Issue #450
+70: dedupe <n>: dedupes
+70: _-: de-dupe <n>: de-dupes
+
+# Issue #450
+70: dedupe <v>: deduped, deduping, dedupes
+70: _-: de-dupe <v>: de-duped, de-duping, de-dupes
+
+# Issue #450
+60: deduplicate <v>: deduplicated, deduplicating, deduplicates
+60: _V: de-duplicate <v>: de-duplicated, de-duplicating, de-duplicates
+
+# Issue #450
+60: deduplication <n>: deduplications
+60: _V: de-duplication <n>: de-duplications
+
+# Issue #472
+60: DeepMind <n/name>: DeepMind's
+
+# Issue #474
+70: _: deferrable <aj>
+70: _-: deferable <aj>
+
+# Issue #319
+60: demonym <n>: demonyms
+
+# Issue #265
+70: demultiplexer <n>: demultiplexers, demultiplexer's
+
+# Issue #308
+60: deplatform <v>: deplatformed, deplatforming, deplatforms
+
+# Issue #384
+60: A Z: deserialization <n>: deserializations
+60: B: deserialisation <n>: deserialisations
+
+# Issue #384
+60: A Z: deserialize <v>: deserialized, deserializing, deserializes
+60: B: deserialise <v>: deserialised, deserialising, deserialises
+
+# Issue #265
+70: desolder <v>: desoldered, desoldering, desolders
+
+# Issue #270
+70: desulfurization <n>
+
+# Issue #265
+80: distributorless <aj>
+
+# Issue #454
+70: DKK <abbr>
+
+# Issue #316
+70: dubnium <n>: dubniums, dubnium's
+
+# Issue #326
+60: duplicative <aj>
+
+# Issue #265
+70: dynamometer <n>: dynamometers, dynamometer's
+
+# Issue #417
+70: dyscalculia <n>
+
+# Issue #417
+70: dyspraxia <n>
+
+# Issue #417
+60: dysregulation <n>
+
+# Issue #341
+70: Egyptological <aj>
+
+# Issue #341
+60: Egyptologist <n>: Egyptologists, Egyptologist's
+
+# Issue #341
+60: Egyptology <n>
+80: - <n>: Egyptologies~
+
+# Issue #322
+60: electrochemical <aj>
+
+# Issue #265
+70: electrochemistry <n>
+
+# Issue #265
+70: electropneumatic <aj>
+
+# Issue #265
+80: electropneumatics <n>
+
+# Issue #472
+70: embedding <n>: embeddings, embedding's
+
+# Issue #348
+60: empanada <n>: empanadas
+
+# Issue #281
+70: endothermy <n>
+
+# Issue #445
+70: ENS <abbr>
+
+# Issue #266
+70: epicycle <n>: epicycles
+
+# Issue #265
+70: equipotential <n>: equipotentials
+
+# Issue #265
+70: equipotential <aj>
+
+# Issue #375
+60: A C: esthetician <n>: estheticians, esthetician's
+60: Av B C?: aesthetician <n>: aestheticians, aesthetician's
+
+# Issue #266
+60: ethicist <n>: ethicists
+
+# Issue #454
+60: EUR <abbr>
+
+# Issue #409
+60: expectedly <av>
+
+# Issue #438
+60: fandom <n>: fandoms, fandom's
+
+# Issue #438
+60: _: fanfic <n>: fanfics, fanfic's
+60: _V: fan fic <n>: fan fics, fan fic's
+60: _-: fan-fic <n>: fan-fics, fan-fic's
+
+# Issue #438
+60: _: fan fiction <n>: fan fiction's
+60: _v: fanfiction <n>: fanfiction's
+60: _-: fan-fiction <n>: fan-fiction's
+
+60: financials <pl>
+
+# Issue #316
+70: flerovium <n>: fleroviums, flerovium's
+
+# Issue #414
+70: folksonomy <n>: folksonomies
+
+# Issue #265
+60: freeware <n>
+
+# Issue #437
+60: _: gameplay <n>: -, gameplay's
+60: _V: game play <n>: -, game play's
+
+# Issue #454
+60: GBP <abbr>
+
+# Issue #472
+70: GenAI <n/abbr>: GenAI's
+
+# Issue #473
+70: geodata <n>
+
+# Issue #294
+60: glyph <n>: glyphs
+
+# Issue #349
+60: A: grayscale <n>: grayscales
+60: B C D: greyscale <n>: greyscales
+
+# Issue #349
+60: A: grayscale <aj>
+60: B C D: greyscale <aj>
+
+# Issue #445
+80: hardfork <n>: hardforks, hardfork's
+
+# Issue #316
+70: hassium <n>: hassiums, hassium's
+
+# Issue #281
+60: hatchling <n>: hatchlings
+
+# Issue #265
+70: HGV <abbr>
+
+# Issue #265
+70: HMI <abbr>
+
+# Issue #435
+60: _: homeschool <n>: homeschools
+60: _V: home school <n>: home schools
+
+# Issue #435
+60: _: homeschool <v>: homeschooled, homeschooling, homeschools
+60: _v: home-school <v>: home-schooled, home-schooling, home-schools
+60: _V: home school <v>: home schooled, home schooling, home schools
+
+# Issue #435
+60: _: homeschooler <n>: homeschoolers, homeschooler's
+60: _v: home-schooler <n>: home-schoolers, home-schooler's
+60: _V: home schooler <n>: home schoolers, home schooler's
+
+# Issue #270
+70: homolog <n>: homologs
+
+# Issue #265
+60: HVAC <abbr>
+
+# Issue #265
+60: hydropower <n>
+
+# Issue #267
+70: A Z: hyperbolize <v>: hyperbolized, hyperbolizing, hyperbolizes
+70: B: hyperbolise <v>: hyperbolised, hyperbolising, hyperbolises
+
+# Issue #270
+70: hypermetropia <n>
+
+# Issue #417
+70: hyposensitive <aj>
+
+# Issue #417
+70: hyposensitivity <n>
+
+# Issue #313
+60: ideation <n>: ideations
+
+# Issue #336
+60: impactful <aj>
+
+70: inasmuch <s> (nonstandard)
+
+# Issue #266
+70: inductor <n>: inductors
+
+70: insofar <s> (nonstandard)
+
+# Issue #441
+60: Instagram <n>: Instagram's
+
+# Issue #441
+60: Instagram <v>: Instagrammed, Instagramming, Instagrams
+
+# Issue #441
+60: Instagrammer <n>: Instagrammers, Instagrammer's
+
+# Issue #265
+70: integumentary <aj>
+
+# Issue #265
+60: intranet <n>: intranets, intranet's
+
+# Issue #322
+70: in vivo <aj>
+
+# Issue #322
+70: in vivo <av>
+
+# Issue #445
+70: IPFS <abbr>
+
+# Issue #321
+60: Janssen <n/name>: Janssen's
+
+# Issue #321
+80: Jcovden <n/name>: Jcovden's
+
+# Issue #454
+70: JPY <abbr>
+
+# Issue #270
+60: liftgate <n>: liftgates
+
+# Issue #270
+70: liquidus <n>
+
+# Issue #436
+70: _: listserver <n>: listservers
+70: _=: list server <n>: list servers
+
+# Issue #316
+70: livermorium <n>: livermoriums, livermorium's
+
+# Issue #437
+60: _: livestream <n>: livestreams, livestream's
+60: _v: live stream <n>: live streams, live stream's
+60: _V: live-stream <n>: live-streams, live-stream's
+
+# Issue #437
+60: _: livestream <v>: livestreamed, livestreaming, livestreams
+60: _v: live stream <v>: live streamed, live streaming, live streams
+60: _V: live-stream <v>: live-streamed, live-streaming, live-streams
+
+# Issue #472
+70: LLMOps <abbr>
+
+# Issue #437
+60: _: LOL <abbr>
+60: _V: lol <abbr>
+
+# Issue #472
+70: LoRA <n/abbr>: LoRA's
+
+# Issue #436
+60: lowball <n>: lowballs
+
+# Issue #436
+60: lowball <v>: lowballed, lowballing, lowballs
+
+# Issue #270
+70: luteinizing hormone <n>: luteinizing hormones
+
+# Issue #366
+60: macOS <n/name>: macOS's
+
+# Issue #441
+60: _: macro-influencer <n>: macro-influencers, macro-influencer's
+60: _v: macroinfluencer <n>: macroinfluencers, macroinfluencer's
+
+# Issue #265
+80: magnetomotive <aj>
+
+# Issue #445
+70: mainnet <n>: mainnets
+
+# Issue #265
+70: mechatronics <n>
+
+# Issue #321
+80: Medicago <n/name>: Medicago's
+
+# Issue #441
+60: _: mega-influencer <n>: mega-influencers, mega-influencer's
+60: _v: megainfluencer <n>: megainfluencers, megainfluencer's
+
+# Issue #316
+70: meitnerium <n>: meitneriums, meitnerium's
+
+# Issue #265
+70: melanism <n>
+
+# Issue #473
+70: mergeable <aj>
+
+# Issue #265
+60: metalloid <n>: metalloids
+
+# Issue #445
+70: MetaMask <n>: MetaMask's
+
+60: microbiome <n>: microbiomes, microbiome's
+
+# Issue #437
+60: microblog <n>: microblogs, microblog's
+
+# Issue #437
+60: microblog <v>: microblogged, microblogging, microblogs
+
+# Issue #265
+60: microcontroller <n>: microcontrollers, microcontroller's
+
+# Issue #281
+70: microfossil <n>: microfossils
+
+# Issue #441
+60: _: micro-influencer <n>: micro-influencers, micro-influencer's
+60: _v: microinfluencer <n>: microinfluencers, microinfluencer's
+
+# Issue #265
+70: microstructure <n>: microstructures, microstructure's
+
+# Issue #270
+70: microswitch <n>: microswitches
+
+# Issue #472
+70: Midjourney <n/name>: Midjourney's
+
+# Issue #413
+60: _: misclick <n>: misclicks
+60: _V: mis-click <n>: mis-clicks
+
+# Issue #413
+60: _: misclick <v>: misclicked, misclicking, misclicks
+60: _V: mis-click <v>: mis-clicked, mis-clicking, mis-clicks
+
+# Issue #472
+70: Mistral <n/name>: Mistral's
+
+# Issue #189
+60: mitzvah <n>: (mitzvot | _.: mitzvahs | _@: mitzvoth)
+
+# Issue #472
+70: MLOps <abbr>
+
+# Issue #321
+60: Moderna <n/name>: Moderna's
+
+# Issue #316
+70: moscovium <n>: moscoviums, moscovium's
+
+# Issue #281
+70: mudstone <n>: mudstones
+
+# Issue #472
+60: multimodal <aj>
+
+# Issue #440
+60: multitask <v>: multitasked, multitasking, multitasks
+
+# Issue #265
+70: multivibrator <n>: multivibrators, multivibrator's
+
+# Issue #441
+60: _: nano-influencer <n>: nano-influencers, nano-influencer's
+60: _v: nanoinfluencer <n>: nanoinfluencers, nanoinfluencer's
+
+# Issue #417
+70: neurodevelopment <n>
+
+# Issue #417
+70: neurodevelopmental <aj>
+
+# Issue #316
+70: nihonium <n>: nihoniums, nihonium's
+
+# Issue #395
+60: nitride <n>: nitrides
+
+# Issue #472
+60: NLP <n/abbr>: NLP's
+
+# Issue #454
+70: NOK <abbr>
+
+# Issue #281
+70: nonavian <n>: nonavians
+
+# Issue #281
+70: nonavian <aj>
+
+# Issue #459
+70: non-refoulement <n>
+70: _V: nonrefoulement <n>
+
+# Issue #321
+70: Novavax <n/name>: Novavax's
+
+# Issue #321
+80: Nuvaxovid <n/name>: Nuvaxovid's
+
+# Issue #472
+60: Nvidia <n/name>: Nvidia's
+
+# Issue #454
+70: NZD <abbr>
+
+# Issue #445
+70: _: off-chain <aj>
+70: _v: offchain <aj>
+
+# Issue #438
+60: _: off-screen <aj>
+60: _V: offscreen <aj>
+
+# Issue #438
+60: _: off-screen <av>
+60: _V {1}: offscreen <av>
+60: _V {2}: off screen <av>
+
+# Issue #316
+70: oganesson <n>: oganessons, oganesson's
+
+# Issue #445
+70: _: on-chain <aj>
+70: _v: onchain <aj>
+
+# Issue #472
+60: OpenAI <n/name>: OpenAI's
+
+# Issue #445
+70: OpenSea <n/name>: OpenSea's
+
+# Issue #265
+70: optocoupler <n>: optocouplers, optocoupler's
+
+# Issue #281
+80: palynomorph <n>: palynomorphs
+
+# Issue #386
+70: A Z: parameterization <n>: parameterizations
+70: B: parameterisation <n>: parameterisations
+
+# Issue #461
+60: parklet <n>: parklets, parklet's
+
+# Issue #351
+60: A Z: personalization <n>: personalizations
+60: B: personalisation <n>: personalisations
+
+# Issue #321
+60: Pfizer <n/name>: Pfizer's
+
+# Issue #265
+70: phasor <n>: phasors
+
+# Issue #270
+70: plasmolysis <n>
+
+# Issue #270
+70: plasmolyze <v>: plasmolyzed, plasmolyzing, plasmolyzes
+
+# Issue #441
+60: podcaster <n>: podcasters, podcaster's
+
+# Issue #265
+60: A B C D Z: preprogram <v>: (preprogrammed | V: preprogramed), (preprogramming | V: preprograming), preprograms
+60: Av Bv Cv Dv Zv: pre-program <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programs
+60: BV ZV {1}: preprogramme <v>: (preprogrammed | V: preprogramed), (preprogramming | V: preprograming), preprogrammes
+60: BV ZV {2}: pre-programme <v>: (pre-programmed | V: pre-programed), (pre-programming | V: pre-programing), pre-programmes
+
+# Issue #266
+70: prosecutable <aj>
+
+# Issue #281
+70: proteobacterium <n>: proteobacteria
+
+# Issue #281
+80: protovertebra <n>: protovertebrae
+
+# Issue #330
+60: psilocybin <n>
+
+# Issue #281
+70: pterosaur <n>: pterosaurs
+
+# Issue #472
+70: PyTorch <n/name>: PyTorch's
+
+# Issue #321
+80: QazVac <n/name>: QazVac's
+
+# Issue #472
+70: RAG <n/abbr>: RAGs, RAG's
+
+# Issue #368
+60: ramen <n>
+
+# Issue #380
+70: A Z: rasterization <n>
+70: B: rasterisation <n>
+
+# Issue #380
+70: A Z: rasterize <v>: rasterized, rasterizing, rasterizes
+70: B: rasterise <v>: rasterised, rasterising, rasterises
+
+# Issue #265
+80: ratiometer <n>: ratiometers, ratiometer's
+
+# Issue #265
+70: reactance <n>: reactances
+
+# Issue #281
+60: redshift <n>: redshifts
+
+# Issue #281
+60: redshift <v>: redshifted, redshifts, redshifting
+
+# Issue #459
+70: refoulement <n>: refoulements
+
+# Issue #387
+60: A Z: reinitialize <v>: reinitialized, reinitializing, reinitializes
+60: B: reinitialise <v>: reinitialised, reinitialising, reinitialises
+
+# Issue #265
+60: reinstallation <n>: reinstallations
+
+# Issue #397
+60: reportable <aj>
+
+# Issue #474
+60: repurpose <v>: repurposed, repurposing, repurposes
+
+# Issue #266
+60: responder <n>: responders
+
+# Issue #336
+70: A C Z: revictimization <n>: revictimizations
+70: B D: revictimisation <n>: revictimisations
+
+# Issue #485
+60: rewild <v>: rewilded, rewilding, rewilds
+
+# Issue #382
+60: _: rewritable <aj>
+60: _V: rewriteable <aj>
+
+# Issue #419
+60: rheumatologist <n>: rheumatologists, rheumatologist's
+
+# Issue #419
+60: rheumatology <n>
+
+# Issue #472
+70: RLHF <n/abbr>: RLHF's
+
+# Issue #316
+70: roentgenium <n>: roentgeniums, roentgenium's
+
+# Issue #381
+60: A Z: sanitization <n>: sanitizations
+60: B: sanitisation <n>: sanitisations
+
+# Issue #347
+60: scalable <aj>
+
+# Issue #316
+70: seaborgium <n>: seaborgiums, seaborgium's
+
+# Issue #454
+70: SEK <abbr>
+
+# Issue #321
+70: Sinopharm <n/name>: Sinopharm's
+
+# Issue #321
+70: Sinovac <n/name>: Sinovac's
+
+# Issue #266
+70: solvability <n>
+
+# Issue #321
+80: Spikevax <n/name>: Spikevax's
+
+# Issue #266
+60: splitter <n>: splitters
+
+# Issue #436
+60: _: stand-up <n>: stand-ups
+60: _V: standup <n>: standups
+
+# Issue #436
+60: _: stand-up <aj>
+60: _V: standup <aj>
+
+# Issue #438
+60: _: staycation <n>: staycations, staycation's
+60: _-: stay-cation <n>: stay-cations, stay-cation's
+
+# Issue #473
+60: stupa <n>: stupas, stupa's
+
+# Issue #266
+70: subtractive <aj>
+
+# Issue #266
+70: surveil <v>: surveilled, surveilling, surveils
+
+# Issue #473
+60: sysadmin <n>: sysadmins, sysadmin's
+
+# Issue #441
+60: tastemaker <n>: tastemakers, tastemaker's
+
+# Issue #316
+70: tennessine <n>: tennessines, tennessine's
+
+# Issue #472
+70: TensorFlow <n/name>: TensorFlow's
+
+# Issue #445
+70: testnet <n>: testnets
+
+# Issue #281
+80: tholin <n>: tholins
+
+# Issue #441
+60: TikTok <n>: TikTok's
+
+# Issue #441
+60: TikTok <v>: TikToked, TikToking, TikToks
+
+# Issue #441
+60: TikToker <n>: TikTokers, TikToker's
+
+# Issue #451
+60: _: tokamak <n>: tokamaks, tokamak's
+60: _V: tokomak <n>: tokomaks, tokomak's
+
+# Issue #445
+60: A Z: tokenization <n>
+60: B: tokenisation <n>
+
+# Issue #445
+60: A Z: tokenize <v>: tokenizes, tokenized, tokenizing
+60: B: tokenise <v>: tokenises, tokenised, tokenising
+
+# Issue #472
+70: A Z: tokenizer <n>: tokenizers, tokenizer's
+70: B: tokeniser <n>: tokenisers, tokeniser's
+
+# Issue #426
+70: toroid <n>: toroids, toroid's
+
+# Issue #426
+70: toroidal <aj>
+
+# Issue #270
+70: trabecula <n>: (trabeculae | _V: trabeculas)
+
+# Issue #266
+60: tradable <aj>
+
+# Issue #266
+60: transactional <aj>
+
+# Issue #265
+70: transaxle <n>: transaxles, transaxle's
+
+# Issue #270
+70: transaxle <n>: transaxles
+
+# Issue #370
+60: transformative <aj>
+
+# Issue #473
+60: _triage <n>: triages
+
+# Issue #473
+60: _triage <v>: triaged, triaging, triages
+
+# Issue #458
+60: TUI <n/abbr>: TUIs, TUI's
+
+# Issue #266
+60: tunable <aj>
+
+# Issue #483
+60: unapplied <aj>
+
+# Issue #365
+70: unhewn <aj>
+
+# Issue #270
+60: uninterruptible <aj>
+
+# Issue #332
+60: unintuitive <aj>
+
+# Issue #445
+70: Uniswap <n/name>: Uniswap's
+
+# Issue #270
+80: unminable <aj>
+
+# Issue #388
+60: A Z: unsynchronized <aj>
+60: B: unsynchronised <aj>
+
+# Issue #454
+60: USD <abbr>
+
+# Issue #321
+80: Valneva <n/name>: Valneva's
+
+# Issue #321
+80: Vaxzevria <n/name>: Vaxzevria's
+
+# Issue #266
+70: verifier <n>: verifiers
+
+# Issue #265
+60: vertex <n>: vertices, vertex's
+
+# Issue #437
+60: _: videoconference <n>: videoconferences, videoconference's
+60: _v: video conference <n>: video conferences, video conference's
+60: _V: video-conference <n>: video-conferences, video-conference's
+
+# Issue #437
+60: vlog <n>: vlogs, vlog's
+
+# Issue #437
+60: vlog <v>: vlogged, vlogging, vlogs
+
+# Issue #437
+60: vlogger <n>: vloggers, vlogger's
+
+# Issue #460
+60: voxel <n>: voxels, voxel's
+
+# Issue #337
+60: wheatgrass <n>
+70: - <n>: wheatgrasses-
+
+# Issue #437
+60: A B: Wi-Fi <n>
+60: A. B. {1}: WiFi <n>
+60: Av BV {2}: wifi <n>
+60: AV Bv {3}: wi-fi <n>
+
+# Issue #424
+60: _: wordlist <n>: wordlists
+60: _?: word list <n>: word lists
+
+# Issue #265
+70: WordPad <n>: WordPad's
+
+# Issue #436
+60: _: workspace <n>: workspaces, workspace's
+60: _V: work space <n>: work spaces, work space's
+
+# Issue #382
+60: _: writable <aj>
+60: _V: writeable <aj>
+
+# Issue #441
+60: YouTube <n>: YouTube's
+
+# Issue #441
+60: YouTube <v>: YouTubed, YouTubing, YouTubes
+
+# Issue #441
+60: YouTuber <n>: YouTubers, YouTuber's
+
+# Issue #412
+## chip seal (chipseal):
+## In US and Canadian civil engineering, the two-word "chip seal"
+## is standard for nouns and verbs, while the hyphenated form is
+## preferred for adjectives. Conversely, the one-word "chipseal"
+## is the standard in Australia and New Zealand and preferred in
+## the UK.

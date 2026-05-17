@@ -1,0 +1,575 @@
+#:: merge (hacker)
+
+50: abbrev <n/abbr>: abbrevs
+
+50: accumulator <n>: accumulators
+
+50: admin <n>: admins-
+
+50: AFAIK <abbr>
+
+50: AI <n/abbr>: AIs
+
+50: alt <n>
+
+50: ANSI <n/abbr>: ANSIs
+
+50: ASCII <n/abbr>: ASCIIs-
+
+50: atomic <n>
+
+50: backgammon <v>
+
+50: bandwidth <n>
+
+50: barney <n>: barneys
+
+50: BASIC <n/upper>: BASICs-
+
+50: BBS <n/abbr>: BBSes
+
+50: biff <v>: biffed, biffing, biffs
+
+50: BITNET <n/name>
+
+50: blammo <m>
+
+50: blat <n>: blats
+
+50: bletch
+
+50: blivet <n>: blivets
+
+50: bloatware <n>
+
+50: bogon <n>: boga
+
+50: bogosity <n>
+
+50: boink <n>: boinks
+
+50: boink <v>: boinked, boinking, boinks
+
+50: Borg <n/name>: Borgs-
+
+50: _: bot. <abbr>
+50: _~: bot <abbr>
+
+50: boustrophedon <n>
+
+50: boxen
+
+50: BSD <n/name>: BSDs
+
+50: burble <v>: burbled, burbling, burbles
+
+50: canonical <n>
+
+50: cat <v>: catted, catting, cats
+
+50: chad <n>: chads
+
+50: chomper <n>: chompers
+
+50: COBOL <n/upper>: COBOLs-
+
+50: compo <n>: compos
+
+50: confuser <n>: confusers
+
+50: cons <v>: consed, consing, conses
+
+50: copyleft <n>
+
+50: cracking <n>: crackings
+
+50: cray <n>: crays
+
+50: crayola <n>: crayolas
+
+50: creationism <n>
+
+50: crippleware <n>
+
+50: cruft <v>: crufted, -, crufts
+
+50: crufty <n>
+
+50: cubing <m>
+
+50: cyberspace <n>: cyberspaces~
+
+50: dd
+
+50: dded
+
+50: dding
+
+50: dds
+
+50: DEC <n/name>: DECs
+
+50: deckle <n>: deckles
+
+50: defenestration <n>: defenestrations
+
+50: deliminator <n>
+
+50: delint <v>: delinted, delinting, -
+
+50: demented <aj>
+
+50: demo <n>: demos
+
+50: demo <v>: demoed, demoing, demos
+
+50: diff <v>: diffed, diffing, diffs
+
+50: Dilbert <n/person>: Dilberts-
+
+50: dink <a>: dinker, -
+
+50: dirtball <n>: dirtballs
+
+50: dodgy <aj>: dodgier, dodgiest
+
+50: dongle <n>: dongles
+
+50: doorstop <n>: doorstops
+
+50: DP <n/upper>: DPs-
+
+50: droid <n>: droids
+
+50: drugged <aj>
+
+50: elvish <n>
+
+50: emoticon <n>: emoticons
+
+50: epsilon <n>: epsilons
+
+50: Eris <n/name?>: Erises-
+
+50: erotics <n>
+
+50: excl <n/abbr>
+
+50: exec <v>
+
+50: fairings <n>
+
+50: FAQ <n/abbr>: FAQs
+
+50: A Z: faradize <v>: faradized, faradizing, -
+50: B: faradise <v>: faradised, faradising, -
+
+50: flamage <n>
+
+50: flamer <n>: flamers
+
+50: flippy <n>: flippies
+
+50: flytrap <n>: flytraps
+
+50: FM <abbr>
+
+50: foo <n>
+
+50: foobar <n>
+
+50: frag <n>: frags
+
+50: frag <v>: fragged, fragging, frags
+
+50: freeware <n>
+
+50: ftp <n/abbr>: ftps
+
+50: ftpers
+
+50: ftping
+
+50: FUD <n/abbr>: FUDs
+
+50: fum <n>: fums
+
+50: fuzzball <n>: fuzzballs
+
+50: gen <n>: gens
+
+50: GIGO <n/upper>
+
+50: gillion <n>: gillions
+
+50: glitch <v>: glitched, glitching, glitches
+
+50: glob <v>: globbed, globbing, globs
+
+50: gnarly <aj>: gnarlier, gnarliest
+
+50: gonk <n>: gonks
+
+50: gonzo <aj>
+
+50: gorp <n>
+
+50: gotcha <n>: gotchas
+
+50: grep <v>: grepped, grepping, greps
+
+50: gribble <n>: gribbles
+
+50: grok <v>: grokked, grokking, groks
+
+50: grue <n>: grues
+
+50: grunge <n>
+
+50: Guido <n/person>
+
+50: hackish <n>
+
+50: hairball <n>: hairballs
+
+50: handshaking <n>: handshakings
+
+50: _: hardwired <aj>
+50: _?: hard-wired <aj>
+
+50: hexadecimal <n>: hexadecimals
+
+50: hing <n>: hings
+
+50: hoarding <n>: hoardings
+
+50: hobbit <n>: hobbits
+
+50: _: hotlink <n>: hotlinks
+50: _v: hot link <n>: hot links
+
+50: hyperspace <n>: hyperspaces
+
+50: idempotent <n>
+
+50: idempotent <aj>
+
+50: IMHO <abbr>
+
+50: inc <v>: inced, incing, incs
+
+50: Internet <n/name>: Internets
+
+50: intro <n>: intros
+
+50: ioctl <n>
+
+50: ironmonger <n>: ironmongers
+
+50: jaggies <n>
+
+50: jello <n>
+
+50: kahuna <n>: kahunas
+
+50: ken <n>: kens
+
+50: kludge <v>: kludged, kludging, kludges
+
+50: kluge <n>: kluges
+
+50: kluge <v>: kluged, -, kluges
+80: kluge <v>: -, kludgeing, -
+
+50: Knuth <n/surname>: Knuths-
+
+50: koan <n>: koans
+
+50: lamer <n>: lamers
+
+50: lase <v>: lased, lasing, lases
+
+50: laundromat <n>: laundromats
+
+50: letterbomb <n>: letterbombs
+
+50: lexer <n>: lexers
+
+50: lint <v>: linted, linting, lints
+
+50: Linux <n/upper>: Linuxes-
+
+50: liveware <n>
+
+50: lurker <n>: lurkers
+
+50: machinable <aj>
+
+50: macrology <n>: macrologies
+
+50: mailbomb <n>: mailbombs
+
+50: mailbomb <v>: mailbombed, mailbombing, mailbombs
+
+50: manged <n>
+
+50: mangler <n>: manglers
+
+50: Mars <n/place>: Marses
+
+50: martian <n>: martians
+
+50: MEGO <n/abbr>: MEGOs
+
+50: meta
+
+50: meta <pre>
+
+50: mickey <n>: mickeys
+
+50: microfloppies <n>
+
+50: minifloppies <n>
+
+50: misfeature <n>: misfeatures
+
+50: mod <n>: mods
+
+50: mod <v>: modded, modding, mod
+
+50: modulo <n>
+
+50: Multics <n/name>
+
+50: multitask <v>: multitasked, multitasking, multitasks
+
+50: munchkin <n>: munchkins
+
+50: mundane <n>: mundanes
+
+50: munge <v>: munged, munging, munges
+
+50: nagware <n>
+
+50: nanobot <n>: nanobots
+
+50: nanotechnology <n>: nanotechnologies~
+
+50: neophilia <n>
+
+50: netiquette <n>: netiquettes
+
+50: netter <n>: netters
+
+50: newline <n>: newlines
+
+50: newsgroup <n>: newsgroups
+
+50: nickle <n>: nickles
+
+50: nonlinear <aj>
+
+50: notwork <n>: notworks
+
+50: numbers <n>
+
+50: nybble <v>
+
+50: op <n>: ops
+
+50: op <abbr>
+
+50: OS <n/upper>: OSes-
+
+50: overclock <v>: overclocked, overclocking, -
+
+50: PARC <n/name>: PARCs
+
+50: Pascal <n/upper>: Pascals-
+
+50: pastie <a>
+
+50: payware <n>
+
+50: PD <n/abbr>
+
+50: Pentium <n/name?>: Pentiums-
+
+50: Perl <n/name?>: Perls-
+
+50: pessimal <m>
+
+50: phage <n>: phages
+
+50: phreaking <n>
+
+50: plonk <v>: plonked, plonking, plonks
+
+50: PM <v>: PMed, PMing, PMs
+
+50: posting <n>: postings
+
+50: pseudo <n>: pseudos
+
+50: ques <n>
+
+50: quine <n>: quines
+
+50: QWERTY <n/abbr>
+
+50: randomness <n>
+
+50: recursion <n>
+
+50: regexp <n>: regexps
+
+50: rehi
+
+50: replicator <n>: replicators
+
+50: RFC <n/abbr>: RFCs
+
+50: roach <v>: roached, roaching, roaches
+
+50: RTFM <abbr>
+
+50: runic <aj>
+
+50: samizdat <n>: samizdats
+
+50: scag <v>: scagged, -, scags
+
+50: scrog <v>
+
+50: segfault <n>: segfaults
+
+50: shareware <n>
+
+50: showstopper <n>: showstoppers
+
+50: silicon <n>: silicons
+
+50: skulker <n>: skulkers
+
+50: smiley <n>: (smileys | ~: smilies)
+
+50: smurf <n>: smurfs
+
+50: snail <v>: snailed, snailing, -
+
+50: snarf <v>: snarfed, snarfing, snarfs
+
+50: snark <n>: snarks
+
+50: stdio <n>
+
+50: studly <aj>: studlier, studliest
+
+50: sunspots <n>
+
+50: superuser <n>: superusers
+
+50: swizzle <v>: swizzled, swizzling, swizzles
+
+50: sysadmin <n>: sysadmins
+
+50: sysop <n>: sysops
+
+50: tarball <n>: tarballs
+
+50: telnet <n>
+
+50: TELNET <n>
+
+50: TeX <n/name>
+
+50: thunk <n>: thunks
+
+50: toad <v>
+
+50: touristic <aj>
+
+50: tron <v>
+
+50: tty <n>: ttys
+
+50: twink <n>: twinks
+
+50: twink <n>: twink
+
+50: Unix <n/name>: Unixes
+
+50: up <pre>
+
+50: upload <v>: uploaded, uploading, uploads
+
+50: upping <n>
+
+50: URL <n/abbr>: URLs
+
+50: Usenet <n/name>: Usenets-
+
+50: A Cv: vaporware <n>
+50: B C: vapourware <n>
+
+50: var <n>: vars
+
+50: VAX <n/name>: VAXes
+
+50: verbiage <n>
+
+50: videotex <n>
+
+50: wabbit <n>: wabbits
+
+50: waldo <n>: (waldos | v: waldoes)
+
+50: wank <v>: wanked, wanking, wanks
+
+50: wannabee <n>: wannabees
+
+50: warez <n>
+
+50: wedged <aj>
+
+50: wedgie <n>: wedgies
+
+50: weeds <n>
+
+50: weenie <n>: weenies
+
+50: wetware <n>: wetwares
+
+50: whacker <n>: whackers
+
+50: whales <n>
+
+50: widget <n>: widgets
+
+50: wiggles <n>
+
+50: Winchester <n/upper>: Winchesters-
+
+50: wired <n>: wireds
+
+50: wizardly <aj>
+
+50: womble <n>: wombles
+
+50: wonky <aj>: wonkier, wonkiest
+
+50: workaround <n>: workarounds
+
+50: wormhole <n>
+
+50: xor <c>
+
+50: xref <n>: xrefs
+
+50: xterm <n>: xterm's
+
+50: zen <v>: zenned, zenning, zens
+
+50: zeroth <aj>
+
+50: zorch <v>

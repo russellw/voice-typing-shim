@@ -1,0 +1,136 @@
+#:: merge [+] :adjust-pos
+
+# Issue #472
+60: AGI <n/abbr>: AGI's
+
+# Issue #417
+60: allistic <n>: allistics, allistic's
+
+# Issue #417
+60: allistic <aj>
+
+# Issue #417
+60: AuDHD <abbr>
+
+50: bot <n>: bots, bot's
+
+# Issue #472
+60: ChatGPT <n/name>: ChatGPT's
+
+# Issue #445
+60: Coinbase <n/name>: Coinbase's
+
+# Issue #335
+50: _: commenter <n>: commenters, commenter's
+50: _V: commentor <n>: commentors, commentor's
+
+# Issue #445
+70: _: dApp <n>: dApps, dApp's
+70: _V: dapp <n>: dapps, dapp's
+
+# Issue #445
+60: DeFi <abbr>
+
+# Issue #479
+60: doomer <n>: doomers, doomer's
+
+# Issue #479
+70: doomerism <n>
+
+# Issue #479
+60: doomscrolling <n>
+
+# Issue #303
+50: _: dox <v>: doxed, doxing, doxes
+50: _.: doxx <v>: doxxed, doxxing, doxxes
+
+# Issue #303
+50: _: doxing <n>: doxings
+50: _.: doxxing <n>: doxxings
+
+# Issue #437
+60: emoji <n>: (emojis | V: emoji*), emoji's
+
+# Issue #492
+60: enshittification <n> (vulgar-2)
+
+# Issue #492
+60: enshittify <v> (vulgar-2): enshittified, enshittifying, enshittifies
+
+# Issue #445
+60: ETH <abbr>
+
+# Issue #445
+60: Ethereum <n/name>: Ethereum's
+
+50: gaslight <v>: (gaslighted | .: gaslit), gaslighting, gaslights
+
+# Issue #472
+60: GPT <n/abbr>: GPTs, GPT's
+
+# Issue #441
+50: influencer <n>: influencers, influencer's
+
+# Issue #488
+60: Juneteenth <n/>: Juneteenths, Juneteenth's
+
+# Issue #472
+60: LLM <n/abbr>: LLMs, LLM's
+
+# Issue #439
+60: mansplain <v>: mansplained, mansplaining, mansplains
+
+# Issue #439
+60: mansplainer <n>: mansplainers, mansplainer's
+
+# Issue #363
+50: metaverse <n>: metaverses, metaverse's
+
+# Issue #440
+60: microplastic <n>: microplastics
+
+# Issue #440
+60: microplastic <aj>
+
+# Issue #417
+60: neurodivergent <aj>
+
+# Issue #417
+60: neurodiverse <aj>
+
+# Issue #417
+60: neurodiversity <n>
+
+# Issue #417
+60: neurotypical <n>: neurotypicals, neurotypical's
+
+# Issue #417
+60: neurotypical <aj>
+
+# Issue #445
+60: NFT <n/abbr>: NFTs, NFT's
+
+# Issue #439
+60: A Bv: nonbinary <aj>
+60: AV B: non-binary <aj>
+
+# Issue #439
+60: pansexual <n>: pansexuals, pansexual's
+
+# Issue #439
+60: pansexual <aj>
+
+# Issue #445
+60: stablecoin <n>: stablecoins, stablecoin's
+
+# Issue #417
+60: stim <n>: stims, stim's
+
+# Issue #417
+60: stim <v>: stimmed, stimming, stims
+
+# Issue #417
+60: stimming <n>
+
+# Issue #445
+60: Web3 <n>
