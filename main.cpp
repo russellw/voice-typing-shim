@@ -137,17 +137,17 @@ static LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lPara
         GetClientRect(hWnd, &rc);
         int half = rc.right / 2;
 
-        g_hCopy = CreateWindowEx(
-            0, L"BUTTON", L"Copy (F12)",
-            WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
-            0, rc.bottom - BTN_H, half, BTN_H,
-            hWnd, (HMENU)ID_COPY, GetModuleHandle(NULL), NULL);
-
         g_hFixup = CreateWindowEx(
             0, L"BUTTON", L"Fix up (F11)",
             WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
-            half, rc.bottom - BTN_H, rc.right - half, BTN_H,
+            0, rc.bottom - BTN_H, half, BTN_H,
             hWnd, (HMENU)ID_FIXUP, GetModuleHandle(NULL), NULL);
+
+        g_hCopy = CreateWindowEx(
+            0, L"BUTTON", L"Copy (F12)",
+            WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
+            half, rc.bottom - BTN_H, rc.right - half, BTN_H,
+            hWnd, (HMENU)ID_COPY, GetModuleHandle(NULL), NULL);
 
         g_hEdit = CreateWindowEx(
             0, L"EDIT", L"",
@@ -173,8 +173,8 @@ static LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lPara
         int w = LOWORD(lParam), h = HIWORD(lParam);
         int half = w / 2;
         if (g_hEdit)  MoveWindow(g_hEdit,  0,    0,        w,          h - BTN_H, TRUE);
-        if (g_hCopy)  MoveWindow(g_hCopy,  0,    h - BTN_H, half,      BTN_H,     TRUE);
-        if (g_hFixup) MoveWindow(g_hFixup, half, h - BTN_H, w - half,  BTN_H,     TRUE);
+        if (g_hFixup) MoveWindow(g_hFixup, 0,    h - BTN_H, half,      BTN_H,     TRUE);
+        if (g_hCopy)  MoveWindow(g_hCopy,  half, h - BTN_H, w - half,  BTN_H,     TRUE);
         return 0;
     }
 
