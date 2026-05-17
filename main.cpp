@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <commctrl.h>
 #include <cwctype>
+#include "proper_nouns.h"
 
 static HWND g_hEdit   = NULL;
 static HWND g_hCopy   = NULL;
@@ -69,6 +70,20 @@ static void CopyEditToClipboard(HWND hWnd)
     }
 }
 
+static bool IsProperNoun(const WCHAR *word)
+{
+    int lo = 0, hi = kProperNounsCount - 1;
+    while (lo <= hi)
+    {
+        int mid = (lo + hi) / 2;
+        int cmp = wcscmp(kProperNouns[mid], word);
+        if (cmp == 0) return true;
+        if (cmp < 0)  lo = mid + 1;
+        else          hi = mid - 1;
+    }
+    return false;
+}
+
 static void FixupText()
 {
     int len = GetWindowTextLength(g_hEdit);
@@ -90,16 +105,25 @@ static void FixupText()
             while (i < len && iswalpha(buf[i]))
                 i++;
 
-            if (!sentenceStart)
+            if (!sentenceStart && iswupper(buf[start]))
             {
-                // Leave all-caps words (abbreviations) alone
+                // Leave all-caps abbreviations alone
                 bool allCaps = (i - start > 1);
                 for (int j = start; j < i && allCaps; j++)
                     if (!iswupper(buf[j]))
                         allCaps = false;
 
-                if (!allCaps && iswupper(buf[start]))
-                    buf[start] = (WCHAR)towlower(buf[start]);
+                if (!allCaps)
+                {
+                    // Temporarily null-terminate to look up in the dictionary
+                    WCHAR saved = buf[i];
+                    buf[i] = L'\0';
+                    bool proper = IsProperNoun(buf + start);
+                    buf[i] = saved;
+
+                    if (!proper)
+                        buf[start] = (WCHAR)towlower(buf[start]);
+                }
             }
             sentenceStart = false;
         }
