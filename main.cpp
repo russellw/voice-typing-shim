@@ -6,9 +6,10 @@
 static HWND g_hEdit = NULL;
 static HWND g_hButton = NULL;
 
-#define ID_EDIT   1
-#define ID_COPY   2
-#define BTN_H     40
+#define ID_EDIT      1
+#define ID_COPY      2
+#define BTN_H        40
+#define TIMER_UNFLASH 1
 
 static void TriggerVoiceTyping()
 {
@@ -30,6 +31,12 @@ static void TriggerVoiceTyping()
     inputs[3].ki.dwFlags = KEYEVENTF_KEYUP;
 
     SendInput(4, inputs, sizeof(INPUT));
+}
+
+static void FlashButton(HWND hWnd)
+{
+    SendMessage(g_hButton, BM_SETSTATE, TRUE, 0);
+    SetTimer(hWnd, TIMER_UNFLASH, 150, NULL);
 }
 
 static void CopyEditToClipboard(HWND hWnd)
@@ -116,7 +123,18 @@ static LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lPara
 
     case WM_KEYDOWN:
         if (wParam == VK_F12)
+        {
             CopyEditToClipboard(hWnd);
+            FlashButton(hWnd);
+        }
+        return 0;
+
+    case WM_TIMER:
+        if (wParam == TIMER_UNFLASH)
+        {
+            KillTimer(hWnd, TIMER_UNFLASH);
+            SendMessage(g_hButton, BM_SETSTATE, FALSE, 0);
+        }
         return 0;
 
     case WM_SETFOCUS:
@@ -155,7 +173,10 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow)
     while (GetMessage(&msg, NULL, 0, 0))
     {
         if (msg.message == WM_KEYDOWN && msg.wParam == VK_F12)
+        {
             CopyEditToClipboard(hWnd);
+            FlashButton(hWnd);
+        }
         TranslateMessage(&msg);
         DispatchMessage(&msg);
     }
